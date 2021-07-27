@@ -1,0 +1,15 @@
+/kalvenv/
+*.pyc
+__pycache__
+
+db.sqlite3
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
